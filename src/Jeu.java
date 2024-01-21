@@ -5,7 +5,7 @@
 public abstract class Jeu {
 
 	/**
-	 * R�ception d'une connexion (pour communiquer avec un ordinateur distant)
+	 * Réception d'une connexion (pour communiquer avec un ordinateur distant)
 	 */
 	public abstract void connexion() ;
 	
